@@ -6,6 +6,4 @@
 
 * SAI 4기 I팀
 
-* Flutter Study
-
 

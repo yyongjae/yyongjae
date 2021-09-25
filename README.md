@@ -1,6 +1,6 @@
 # Profile 💩
 
-* 개발자 되고 싶다.
+* 되고 싶다 개발자.
 
 ## 활동 중 💪🏼
 * Sejong Univ. Computer Engineering 재학중 (18.03~)

@@ -2,13 +2,17 @@
 
 * 찍먹에서 벗어나는 중
 
-## 활동 중 💪🏼
+## 꿈틀거리기 💪🏼
 
-* Sejong Univ. Computer Engineering 재학중 (18.03~)
+* [2018.03 ~ ] Sejong Univ. CE
 
-* SAI(Sejong Artificial Intelligence) (21.03~ )
+* [2021.03 ~ ] SAI : AI study & management
 
-* 코딩영재컴퓨터학원 (21.07 ~ 21.12)
+* [2021.07 ~ 2021.12] 코딩영재컴퓨터학원 강사 (C/C++, Python, DL)
+
+## Project
+
+* 
 
 
 [![logo](https://img.shields.io/badge/Blog-블로그-007396?style=flat)](https://yyongjae.tistory.com/) [![logo](https://img.shields.io/badge/Instagram-__yyongjae-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/__yyongjae/) [![logo](https://img.shields.io/badge/Mail-dydwo706@naver.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dydwo70698@naver.com)

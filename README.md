@@ -10,9 +10,10 @@
 
 * [2021.07 ~ 2021.12] 코딩영재컴퓨터학원 강사 (C/C++, Python, DL)
 
-## Project
+## Interest
 
-* 
+* CV
+* Pytorch, Python3
 
 
 [![logo](https://img.shields.io/badge/Blog-블로그-007396?style=flat)](https://yyongjae.tistory.com/) [![logo](https://img.shields.io/badge/Instagram-__yyongjae-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/__yyongjae/) [![logo](https://img.shields.io/badge/Mail-dydwo706@naver.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dydwo706@naver.com)

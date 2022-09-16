@@ -1,5 +1,6 @@
 # Profile
 
+어떤 마음가짐으로 살아가야 할까요
 
 ## Activity
 

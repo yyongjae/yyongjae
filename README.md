@@ -31,7 +31,8 @@ NeRF를 활용하여 2D이미지를 통한 3D 모델링. 데이터 촬영부터 
 
 
 ## 
-[![logo](https://img.shields.io/badge/Blog-블로그-007396?style=flat)]() [![logo](https://img.shields.io/badge/Instagram-__yyongjae-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/__yyongjae/) [![logo](https://img.shields.io/badge/Mail-dydwo706@naver.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dydwo706@naver.com)
+[![logo](https://img.shields.io/badge/Blog-블로그-007396?style=flat)]() [![logo](https://img.shields.io/badge/Instagram-__yyongjae-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/__yyongjae/) [![logo](https://img.shields.io/badge/Mail-dydwo706@naver.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dydwo706@naver.com) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%237B1972&title_bg=%2349188B&icon=&icon_color=%23A07EFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
 <!-- 
 <a href="https://github.com/yyongjae/github-readme-stats">
@@ -41,5 +42,4 @@ NeRF를 활용하여 2D이미지를 통한 3D 모델링. 데이터 촬영부터 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyongjae&layout=compact&theme=tokyonight" />
 </a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%237B1972&title_bg=%2349188B&icon=&icon_color=%23A07EFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  -->

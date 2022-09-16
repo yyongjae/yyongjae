@@ -5,13 +5,14 @@
 
 * [2018.03 ~ ] Sejong Univ. CE
 
-* [2021.03 ~ ] SAI : AI study & management
+* [2021.03 ~ ] SAI - Sejong Artificial Intelligence club : AI study & management
 
 * [2021.07 ~ 2021.12] 코딩영재컴퓨터학원 강사 (C/C++, Python, DL)
 
 ## Interest
 
 * CV
+* RL
 * Pytorch, Python3
 
 <summary>Project</summary>

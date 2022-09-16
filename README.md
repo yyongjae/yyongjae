@@ -18,6 +18,11 @@
 * Autonomous driving / 
  <a href="https://github.com/yyongjae/self-driving"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a> /
 자율주행에 적용되는 Detection실습 및 basic CV 개념 
+
+* PlankHyundong / 
+ <a href="https://github.com/yyongjae/PlankHyundong"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a> /
+NeRF를 활용하여 데이터 촬영부터 3D프린팅까지 2D이미지를 통한 3D 모델링 
+
 ## Interest
 
 * CV

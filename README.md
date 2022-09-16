@@ -16,7 +16,7 @@
 ## Project
 
 * Autonomous driving / 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> /
+ <a href="https://github.com/yyongjae/self-driving"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a> /
 자율주행에 적용되는 Detection실습 및 basic CV 개념 
 ## Interest
 

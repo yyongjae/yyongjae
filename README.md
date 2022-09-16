@@ -1,19 +1,21 @@
-# Profile 💩
+# Profile
 
 
-## 활동
+## Activity
 
 * [2018.03 ~ ] Sejong Univ. CE
 
-* [2021.03 ~ ] SAI - Sejong Artificial Intelligence club : AI study & management
+* [2021.03 ~ ] Circle **SAI** : Sejong Artificial Intelligence - AI study, management, lead
 
-* [2021.07 ~ 2021.12] 코딩영재컴퓨터학원 강사 (C/C++, Python, DL)
+* [2021.07 ~ 2021.12] 코딩영재컴퓨터학원 강사 - C/C++, Python, DL basic
+
+* [2022.09 ~ 2023.02] NAVER boostcamp - Computer Vision
 
 ## Interest
 
 * CV
 * RL
-* Pytorch, Python3
+* Pytorch, Python3, Keras
 
 <summary>Project</summary>
 dsad

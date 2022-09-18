@@ -19,6 +19,7 @@
 * Autonomous driving / 
  <a href="https://github.com/yyongjae/self-driving"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a> /
 자율주행에 적용되는 Detection실습 및 basic CV 개념 학습.
+교내 창의학습 경진대회 최우수, 300,000
 
 * PlankHyundong / 
  <a href="https://github.com/yyongjae/PlankHyundong"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a> /

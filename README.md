@@ -6,7 +6,7 @@
 
 * [2018.03 ~ ] Sejong Univ. CE
 
-* [2021.03 ~ ] Circle **SAI** : 세종대학교 인공지능 중앙동아리 - AI study, lead study(CV, RL)
+* [2021.03 ~ ] Circle **SAI** : Sejong Artificial Intelligence - AI study, lead conference call (CV, RL)
 
 * [2021.07 ~ 2021.12] 코딩영재컴퓨터학원 강사 - C/C++, Python, DL basic
 

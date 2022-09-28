@@ -6,11 +6,11 @@
 
 * [2018.03 ~ ] Sejong Univ. CE
 
-* [2021.03 ~ ] Circle **SAI** : Sejong Artificial Intelligence - AI study, lead conference call (CV, RL)
+* [2021.03 ~ ] Circle **SAI** : Sejong Artificial Intelligence - AI study, conference call lead
 
 * [2021.07 ~ 2021.12] 코딩영재컴퓨터학원 강사 - C/C++, Python, DL basic
 
-* [2022.03 ~ ] Circle **SAI** : Sejong Artificial Intelligence lead manager, [SAI Notion](https://sejongai.notion.site/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204), [SAI Youtube](https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber)
+* [2022.03 ~ ] Circle **SAI** : Sejong Artificial Intelligence - lead manager, [SAI Notion](https://sejongai.notion.site/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204), [SAI Youtube](https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber)
 
 * [2022.09 ~ 2023.02] NAVER boostcamp - Computer Vision
 

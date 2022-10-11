@@ -23,7 +23,7 @@
 
 * PlankHyundong / 
  <a href="https://github.com/yyongjae/PlankHyundong"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a> /
-NeRF를 활용하여 2D이미지를 통한 3D 모델링. 데이터 촬영부터 3D프린팅까지. 2022데이터야놀자 
+NeRF를 활용하여 2D이미지를 통한 3D 모델링. 데이터 촬영부터 3D프린팅까지. 2022데이터야놀자 발표. 
 
 ## Interest
 

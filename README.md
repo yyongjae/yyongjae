@@ -27,8 +27,7 @@ NeRF를 활용하여 2D이미지를 통한 3D 모델링. 데이터 촬영부터 
 
 ## Interest
 
-* CV
-* RL
+* CV, ML
 * Pytorch, Python3, Keras
 
 

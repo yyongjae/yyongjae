@@ -1,16 +1,12 @@
-# Profile
-
-어떤 마음가짐으로 살아가야 할까요 🧐
-
 ## Activity
 
 * [2018.03 ~ ] Sejong Univ. CE
 
-* [2021.03 ~ ] Circle **SAI** : Sejong Artificial Intelligence - AI study, conference call lead
+* [2021.03 ~ ] **SAI** : Sejong Artificial Intelligence Club - AI study, conference call lead
 
 * [2021.07 ~ 2021.12] 코딩영재컴퓨터학원 강사 - C/C++, Python, DL basic
 
-* [2022.03 ~ ] Circle **SAI** : Sejong Artificial Intelligence - lead manager, [SAI Notion](https://sejongai.notion.site/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204), [SAI Youtube](https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber)
+* [2022.03 ~ ] **SAI** : Sejong Artificial Intelligence - lead manager, [SAI Notion](https://sejongai.notion.site/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204), [SAI Youtube](https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber)
 
 * [2022.09 ~ 2023.02] NAVER boostcamp - Computer Vision
 
@@ -23,13 +19,12 @@
 
 * PlankHyundong / 
  <a href="https://github.com/yyongjae/PlankHyundong"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a> /
-NeRF를 활용하여 2D이미지를 통한 3D 모델링. 데이터 촬영부터 3D프린팅까지. 2022데이터야놀자 발표. 
+NeRF를 활용하여 2D이미지를 통한 3D 모델링. 데이터 촬영부터 3D프린팅까지. <a href="https://www.youtube.com/watch?v=s7k_cZi7hvw">2022데이터야놀자 발표.</a> 
 
 ## Interest
 
 * CV, ML
 * Pytorch, Python3, Keras
-
 
 ## 
 [![logo](https://img.shields.io/badge/Blog-블로그-007396?style=flat)]() 

@@ -10,7 +10,7 @@
 
 * [2022.09 ~ 2023.02] NAVER boostcamp - Computer Vision
 
-## Project
+## Projects
 
 * Autonomous driving / 
  <a href="https://github.com/yyongjae/self-driving"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a> /
@@ -20,6 +20,10 @@
 * PlankHyundong / 
  <a href="https://github.com/yyongjae/PlankHyundong"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a> /
 NeRF를 활용하여 2D이미지를 통한 3D 모델링. 데이터 촬영부터 3D프린팅까지. <a href="https://www.youtube.com/watch?v=s7k_cZi7hvw">2022데이터야놀자 발표.</a> 
+
+* 면접 태도 피드백 /
+ <a href=""><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a> /
+비대면 면접을 준비하기 위해 가상 면접을 통해 면접자의 자세와 행동을 분석하여 사실 기반으로 피드백을 서빙해주는 프로젝트. 네이버 커넥트재단 boostcamp AI Tech 4th 최종 프로젝트.()
 
 ## Skills
 

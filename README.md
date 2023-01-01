@@ -8,7 +8,7 @@
 
 * [2022.03 ~ ] **SAI** : Sejong Artificial Intelligence - lead manager, [SAI Notion](https://sejongai.notion.site/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204), [SAI Youtube](https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber)
 
-* [2022.09 ~ 2023.02] NAVER Connect Foundation boostcamp AI Tech 4th - Computer Vision
+* [2022.09 ~ 2023.02] NAVER Connect Foundation **boostcamp AI Tech 4th** - Computer Vision
 
 ## Projects
 

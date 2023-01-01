@@ -1,4 +1,4 @@
-## Activity
+## Experience
 
 * [2018.03 ~ ] Sejong Univ. CE
 
@@ -21,7 +21,7 @@
  <a href="https://github.com/yyongjae/PlankHyundong"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a> /
 NeRF를 활용하여 2D이미지를 통한 3D 모델링. 데이터 촬영부터 3D프린팅까지. <a href="https://www.youtube.com/watch?v=s7k_cZi7hvw">2022데이터야놀자 발표.</a> 
 
-## Interest
+## Skills
 
 * CV, ML
 * Pytorch, Python3, Keras

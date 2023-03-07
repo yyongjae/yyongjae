@@ -2,11 +2,11 @@
 
 * [2018.03 ~ ] Sejong Univ. CE
 
-* [2021.03 ~ ] **SAI** : Sejong Artificial Intelligence Club - AI study, conference call lead
+* [2021.03 ~ 2023.03] **SAI** : Sejong Artificial Intelligence Club - AI study, conference call lead
 
 * [2021.07 ~ 2021.12] 코딩영재컴퓨터학원 강사 - C/C++, Python, DL basic
 
-* [2022.03 ~ ] **SAI** : Sejong Artificial Intelligence - lead manager, [SAI Notion](https://sejongai.notion.site/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204), [SAI Youtube](https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber)
+* [2022.03 ~ 2023.03] **SAI** : Sejong Artificial Intelligence - lead manager, [SAI Notion](https://sejongai.notion.site/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204), [SAI Youtube](https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber)
 
 * [2022.09 ~ 2023.02] NAVER Connect Foundation **boostcamp AI Tech 4th** - Computer Vision
 
@@ -22,9 +22,12 @@
 NeRF를 활용하여 2D이미지를 통한 3D 모델링. 데이터 촬영부터 3D프린팅까지. <a href="https://www.youtube.com/watch?v=s7k_cZi7hvw">2022데이터야놀자 발표.</a> 
 
 * 면접 태도 피드백 /
- <a href=""><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a> /
-비대면 면접을 준비하기 위해 가상 면접을 통해 면접자의 자세와 행동을 분석하여 사실 기반으로 피드백을 서빙해주는 프로젝트. boostcamp AI Tech 최종 프로젝트.(진행 중)
+ <a href="https://github.com/yyongjae/final-project-level3-cv-01"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a> /
+비대면 면접을 준비하기 위해 가상 면접을 통해 면접자의 자세와 행동을 분석하여 사실 기반으로 피드백을 서빙해주는 프로젝트. boostcamp AI Tech 최종 프로젝트.
 
+* OMG(Own My Geul) /
+ <a href="https://github.com/yyongjae/Own-My-Geul"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a> /
+손글씨를 나만의 폰트로 만들어주는 프로젝트. (진행중)
 ## Skills
 
 * CV, ML

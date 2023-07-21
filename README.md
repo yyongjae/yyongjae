@@ -1,5 +1,5 @@
 ## Blog
-<a href="https://yyongjae.oopy.io/">Blog</a>
+<a href="https://yyongjae.oopy.io/">공부 및 경험에 대한 공간</a>
 
 ## Experience
 

@@ -1,3 +1,6 @@
+## Blog
+<a href="https://yyongjae.oopy.io/">Blog</a>
+
 ## Experience
 
 * [2022.09 ~ 2023.02] NAVER Connect Foundation **boostcamp AI Tech 4th** - Computer Vision

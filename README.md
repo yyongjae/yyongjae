@@ -7,7 +7,7 @@
 
 * [2021.07 ~ 2021.12] 코딩영재컴퓨터학원 강사 - C/C++, Python, DL basic, Algorithms
 
-* [2021.03 ~ 2023.03] **SAI** : Sejong Artificial Intelligence Club - AI study, lead manager, [SAI Notion](https://sejongai.notion.site/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204), [SAI Youtube](https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber)
+* [2021.03 ~ 2023.03] **SAI** : Sejong Artificial Intelligence Club - AI 스터디 및 동아리 회장 [SAI Notion](https://sejongai.notion.site/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204), [SAI Youtube](https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg/playlists?view_as=subscriber)
 
 * [2018.03 ~ ] Sejong Univ. CE
 

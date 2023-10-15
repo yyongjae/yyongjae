@@ -3,17 +3,17 @@
 ## Blog
 <a href="https://yyongjae.oopy.io/">공부 및 경험에 대한 공간</a>
 
-## Experience
+## 🎓 Experience
 
 |Period|Contents|Organization|
 |:--:|:-------------:|:-----:|
 |2022.09 ~ <br>2023.02|AI 및 Computer Vision에 대한 학습 및 프로젝트|NAVER Connect Foundation **boostcamp AI Tech 4th**|
 |2021.07 ~ <br>2021.12|   Teaching C/C++, Python, DL basic, Algorithms   |  코딩영재컴퓨터학원  |
 |2021.03 ~ <br>2023.03|AI 스터디 및 동아리 회장|**SAI** : Sejong Artificial Intelligence Club <a href="https://sejongai.notion.site/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204" target="_blank"><img src="https://img.shields.io/badge/notion-FFFFFF?style=flat&logo=notion&logoColor=000000"/></a>|
-|2018.03 ~ <br>|Major in C.E.|Sejong Univ.|
+|2018.03 ~ <br>2024.02|Major in C.E.|Sejong Univ.|
 
 
-## Projects
+## 🧑🏻‍💻 Projects
 
 * [2023.09 ~ 2023.12] **시각장애인을 위한 지하철 이용 도우미: eyeway 👀** [진행중]
   * 시각장애인들이 지하철 안에서 겪는 불편함을 해소하기 위해 방향, 화장실, 출구 등의 이용에 도움을 주는 서비스를 구현.
@@ -21,11 +21,11 @@
   * <a href=""><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>
 
 * [2023.04 ~ 2023.10] **자율주행 창작자동차 SW 시스템 구현**
-  * 한국기술교육대학교의 자동차동아리에 자율주행팀으로 참가하여 ```Camera```, ```LiDAR```, ```Jetson Xavier```를 활용하여 자율주행 시스템을 구축. 인지(Perception)파트를 메인으로 하였음.
+  * 한국기술교육대학교의 자동차동아리에 자율주행팀으로 참가하여 ```Camera```, ```LiDAR```, ```Jetson Xavier```를 활용하여 자율주행 시스템을 구축.
   * 수동 주행 121초 코스를 자율주행으로 126초 완주.
-  * 각 프로세스를 ROS를 통해 패키징.
+  * 인지(Perception)파트를 메인으로 하였음. 각 프로세스를 ROS를 통해 패키징.
   * ```SLAM```, ```Detection```, ```ROS```
-  * <a href=""><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>
+  * <a href="https://github.com/Jyuriven/Driven_autonomous_driving"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>
 
 * [2023.01 ~ 2023.02] **면접 태도 피드백 HEY-I**
   * 비대면 면접을 준비하기 위해 가상 면접을 통해 면접자의 자세와 행동을 분석하여 사실 기반으로 피드백을 서빙해주는 프로젝트. boostcamp AI Tech 최종 프로젝트.

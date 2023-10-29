@@ -25,7 +25,7 @@
   * 수동 주행 121초 코스를 자율주행으로 126초 완주.
   * 인지(Perception)파트를 메인으로 하였음. 각 프로세스를 ROS를 통해 패키징.
   * ```SLAM```, ```Detection```, ```ROS```
-  * <a href="https://github.com/Jyuriven/Driven_autonomous_driving"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>
+  * <a href="[https://github.com/Jyuriven/Driven_autonomous_driving](https://github.com/yyongjae/Driven_autonomous_driving)"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>
 
 * [2023.01 ~ 2023.02] **면접 태도 피드백 HEY-I**
   * 비대면 면접을 준비하기 위해 가상 면접을 통해 면접자의 자세와 행동을 분석하여 사실 기반으로 피드백을 서빙해주는 프로젝트. boostcamp AI Tech 최종 프로젝트.

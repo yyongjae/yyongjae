@@ -8,6 +8,7 @@
 |Period|Contents|Organization|
 |:--:|:-------------:|:-----:|
 |2022.09 ~ <br>2023.02|AI 및 Computer Vision에 대한 학습 및 프로젝트|NAVER Connect Foundation **boostcamp AI Tech 4th**|
+|2021.12 ~ <br>2022.02|   CV, 보행자 인식 모델 성능향상, Photogrammetry   |  Sejong UNIV. RCV Lab  |
 |2021.07 ~ <br>2021.12|   Teaching C/C++, Python, DL basic, Algorithms   |  코딩영재컴퓨터학원  |
 |2021.03 ~ <br>2023.03|AI 스터디 및 동아리 회장|**SAI** : Sejong Artificial Intelligence Club <a href="https://sejongai.notion.site/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204" target="_blank"><img src="https://img.shields.io/badge/notion-FFFFFF?style=flat&logo=notion&logoColor=000000"/></a>|
 |2018.03 ~ <br>2024.02|Major in C.E.|Sejong Univ.|

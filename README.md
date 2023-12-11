@@ -20,7 +20,7 @@
   * 시각장애인들이 지하철 안에서 겪는 불편함을 해소하기 위해 경로, 출구, 화장실 경로 찾기를 도와주는 서비스 개발.
   * 직접 수집한 지하철 데이터셋을 통해 YOLOv8 모델을 학습시켜 사용하였고, output결과를 토대로 경로 안내를 해주는 플로우 개발.
   * ```Detection```
-  * <a href="">https://github.com/MaengKooChoHa/eyeway_ai<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>
+  * <a href="https://github.com/MaengKooChoHa/eyeway_ai"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>
 
 * [2023.04 ~ 2023.10] **자율주행 창작자동차 SW 시스템 구현**
   * 한국기술교육대학교의 자동차동아리에 자율주행팀으로 참가하여 ```Camera```, ```LiDAR```, ```Jetson Xavier```를 활용하여 자율주행 시스템을 구축.

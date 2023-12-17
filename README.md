@@ -19,6 +19,7 @@
 * [2023.09 ~ 2023.12] **시각장애인을 위한 지하철 이용 도우미: eyeway 👀**
   * 시각장애인들이 지하철 안에서 겪는 불편함을 해소하기 위해 경로, 출구, 화장실 경로 찾기를 도와주는 서비스 개발.
   * 직접 수집한 지하철 데이터셋을 통해 YOLOv8 모델을 학습시켜 사용하였고, output결과를 토대로 경로 안내를 해주는 플로우 개발.
+  * 교내 창의설계경진대회 장려상 수상.
   * ```Detection```
   * <a href="https://github.com/MaengKooChoHa/eyeway_ai"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>
 

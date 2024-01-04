@@ -54,7 +54,7 @@
 * Pytorch, Python3
 
 
-[![logo](https://img.shields.io/badge/Instagram-yyongjae__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/__yyongjae/) 
+[![logo](https://img.shields.io/badge/Instagram-yyongjae__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yyongjae__/) 
 [![logo](https://img.shields.io/badge/MAIL-dydwo706@naver.com-brightgreen?style=flat-square&logo=Naver&logoColor=white)](mailto:dydwo706@naver.com) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyyongjae&count_bg=%23444244&title_bg=%23000000&icon=&icon_color=%23A07EFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ---

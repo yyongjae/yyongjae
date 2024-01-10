@@ -17,28 +17,30 @@
 ## 🧑🏻‍💻 Projects
 
 * [2023.09 ~ 2023.12] **시각장애인을 위한 지하철 이용 도우미: eyeway 👀**
-  * 시각장애인들이 지하철 안에서 겪는 불편함을 해소하기 위해 경로, 출구, 화장실 경로 찾기를 도와주는 서비스 개발.
-  * 직접 수집한 지하철 데이터셋을 통해 YOLOv8 모델을 학습시켜 사용하였고, output결과를 토대로 경로 안내를 해주는 플로우 개발.
-  * 교내 창의설계경진대회 장려상 수상.
+  * **개요**: 시각장애인들이 지하철 안에서 겪는 불편함을 해소하기 위해 경로, 출구, 화장실 경로 찾기를 도와주는 서비스 개발.
+  * **작업 내용**: 직접 수집한 지하철 데이터셋을 통해 YOLOv8 모델을 학습시켜 사용하였고, output결과를 토대로 경로 안내를 해주는 플로우 개발 100% 기여.
+  * **결과**: 교내 창의설계경진대회 장려상 수상. 안대 착용 및 앱과 지팡이만을 사용하여 어린이대공원 - 군자 - 아차산 지하철을 이용하는데 성공(하단 영상 첨부).
   * ```Detection```
   * <a href="https://github.com/MaengKooChoHa/eyeway_ai"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>
 
 * [2023.04 ~ 2023.10] **자율주행 창작자동차 SW 시스템 구현**
-  * 한국기술교육대학교의 자동차동아리에 자율주행팀으로 참가하여 ```Camera```, ```LiDAR```, ```Jetson Xavier```를 활용하여 자율주행 시스템을 구축.
-  * 수동 주행 121초 코스를 자율주행으로 126초 완주.
-  * 인지(Perception)파트를 메인으로 하였음. 각 프로세스를 ROS를 통해 패키징.
+  * **개요**: 한국기술교육대학교의 자동차동아리에 자율주행팀으로 참가하여 ```Camera```, ```LiDAR```, ```Jetson Xavier```를 활용하여 자율주행 시스템을 구축.
+  * **작업 내용**: 인지(Perception)파트 100% 기여. + 각 프로세스를 ROS를 통해 패키징(일부 기여).
+  * **결과**: 수동 주행 121초 코스를 자율주행으로 126초 완주.
   * ```SLAM```, ```Detection```, ```ROS```
   * <a href="[https://github.com/Jyuriven/Driven_autonomous_driving](https://github.com/yyongjae/Driven_autonomous_driving)"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>
 
 * [2023.01 ~ 2023.02] **면접 태도 피드백 HEY-I**
-  * 비대면 면접을 준비하기 위해 가상 면접을 통해 면접자의 자세와 행동을 분석하여 사실 기반으로 피드백을 서빙해주는 프로젝트. boostcamp AI Tech 최종 프로젝트.
+  * **개요**: 비대면 면접을 준비하기 위해 가상 면접을 통해 면접자의 자세와 행동을 분석하여 사실 기반으로 피드백을 서빙해주는 프로젝트. boostcamp AI Tech 최종 프로젝트.
+  * **작업 내용**: 오픈소스를 이용하여 eye tracking 커스텀, 자세와 행동 데이터를 MongoDB를 활용하여 관리하는데 100% 기여.
   * ```FastAPI```, ```MongoDB```
   * <a href="https://github.com/yyongjae/final-project-level3-cv-01"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a> , <a href="https://www.youtube.com/watch?v=gwWLrjSWBas&list=LL&index=4"><img src="https://img.shields.io/badge/발표영상-ff0000?style=flat-square&logo=youtube&logoColor=white"></a>
 
 
 * [2022.07 ~ 2022.10] **PlankHyundong**
-  * ```NeRF```를 활용하여 2D 이미지를 가공하여 품질이 16.5% 향상된 3D피사체 제작.
-  *  데이터 촬영부터 가공, 3D프린팅까지 Full cycle.
+  * **개요**: 직접 촬영한 데이터에 대해 ```NeRF```를 활용하여 2D 이미지를 가공해서 3D피사체 제작.
+  * **작업 내용**: 데이터 촬영부터 가공, 3D프린팅까지 Full cycle. (Mesh 추출 및 NeRF 학습 세팅 외 전부 기여)
+  * **결과**: 품질이 16.5% 향상된 3D 피사체 제작. 데이터 컨퍼런스 '데이터야놀자'에서 발표 진행.
   * ```3D Reconstruction```, ```Data processing```
   * <a href="https://github.com/yyongjae/PlankHyundong"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>, <a href="https://www.youtube.com/watch?v=s7k_cZi7hvw"><img src="https://img.shields.io/badge/데이터야놀자 발표영상-ff0000?style=flat-square&logo=youtube&logoColor=white"></a>
 

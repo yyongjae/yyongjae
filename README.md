@@ -47,7 +47,7 @@
 * [2022.04 ~ 2022.06] **Autonomous driving Study**
   * 자율주행에 적용되는 Detection실습 및 basic CV 개념 학습.
   * 교내 창의학습 경진대회 최우수상 300,000.
-  * <a href="https://github.com/yyongjae/self-driving"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>, <a href="https://drive.google.com/file/d/1-e7dtjDQDDTi5IOobdZxc5xSf0JO9Lcv/view?usp=sharing"><img src="https://img.shields.io/badge/발표영상-4285F4?style=flat-square&logo=googledrive&logoColor=white"></a>
+  * <a href="https://drive.google.com/file/d/1-e7dtjDQDDTi5IOobdZxc5xSf0JO9Lcv/view?usp=sharing"><img src="https://img.shields.io/badge/발표영상-4285F4?style=flat-square&logo=googledrive&logoColor=white"></a>
 
 
 ## Skills

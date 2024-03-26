@@ -21,7 +21,7 @@
   * **작업 내용**: 직접 수집한 지하철 데이터셋을 통해 YOLOv8 모델을 학습시켜 사용하였고, output결과를 토대로 경로 안내를 해주는 플로우 개발 100% 기여.
   * **결과**: 교내 창의설계경진대회 장려상 수상. 안대 착용 및 앱과 지팡이만을 사용하여 어린이대공원 - 군자 - 아차산 지하철을 이용하는데 성공(하단 영상 첨부).
   * ```Detection```
-  * <a href="https://github.com/yyongjae/eyeway_ai"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>
+  * <a href="https://github.com/yyongjae/eyeway_ai"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>, <a href="https://www.youtube.com/watch?v=Or4BQe-U8uk&t=60s"><img src="https://img.shields.io/badge/발표영상-ff0000?style=flat-square&logo=youtube&logoColor=white"></a>
 
 * [2023.04 ~ 2023.10] **자율주행 창작자동차 SW 시스템 구현**
   * **개요**: 한국기술교육대학교의 자동차동아리에 자율주행팀으로 참가하여 ```Camera```, ```LiDAR```, ```Jetson Xavier```를 활용하여 자율주행 시스템을 구축.

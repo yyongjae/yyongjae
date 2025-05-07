@@ -7,7 +7,7 @@
 
 |Period|Contents|Organization|
 |:--:|:-------------:|:-----:|
-|2024.12 ~ <br>present| Sensor Fusion research, Carla setting |Hanyang UNIV. IRCV Lab|
+|2024.12 ~ <br>present| Sensor Fusion research, Carla |Hanyang UNIV. IRCV Lab|
 |2022.09 ~ <br>2023.02|AI 및 Computer Vision에 대한 학습 및 프로젝트|NAVER Connect Foundation **boostcamp AI Tech 4th**|
 |2021.12 ~ <br>2022.02|   CV, 보행자 인식 모델 성능향상   |  Sejong UNIV. RCV Lab  |
 |2021.07 ~ <br>2021.12|   Teaching C/C++, Python, DL basic, Algorithms   |  코딩영재컴퓨터학원  |

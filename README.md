@@ -14,7 +14,10 @@
 |2021.03 ~ <br>2023.03|AI 스터디 및 동아리 회장|**SAI** : Sejong Artificial Intelligence Club <a href="https://sejongai.notion.site/SAI-Sejong-Artificial-Intelligence-488d443cf680432ba43878b43521d204" target="_blank"><img src="https://img.shields.io/badge/notion-FFFFFF?style=flat&logo=notion&logoColor=000000"/></a>|
 |2018.03 ~ <br>2024.02|Major in C.E.|Sejong Univ.|
 
-
+## 📄 Publications
+* [IROS 2025 Oral] RoCaRS: Robust Camera-Radar BEV Segmentation for Sensor Failure Scenarios
+  * Byounghun Park*, Jeongtae Kim, **Yongjae Cho**, and Soonmin Hwang†
+    
 ## 🧑🏻‍💻 Projects
 
 * [2023.09 ~ 2023.12] **시각장애인을 위한 지하철 이용 도우미: eyeway 👀**

@@ -15,7 +15,7 @@
 |2018.03 ~ <br>2024.02|Major in C.E.|Sejong Univ.|
 
 ## 📄 Publications
-* [IROS 2025 Oral] RoCaRS: Robust Camera-Radar BEV Segmentation for Sensor Failure Scenarios
+* [IROS 2025] RoCaRS: Robust Camera-Radar BEV Segmentation for Sensor Failure Scenarios
   * Byounghun Park*, Jeongtae Kim, **Yongjae Cho**, and Soonmin Hwang†
     
 ## 🧑🏻‍💻 Projects
